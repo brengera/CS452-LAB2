@@ -1,4 +1,4 @@
-#include "initShaders.h"
+#include "Lab2initShaders.h"
 using namespace std;
 int counter=0;//counter to increase how many vertices are going to be drawn at a given time
 
